@@ -120,7 +120,7 @@
 		}
 		return position;
 	}
+	$(document).ready(function () {
+		$(".slidebox").slidebox();
+	});
 })(jQuery);
-jQuery(document).ready(function () {
-	$(".slidebox").slidebox();
-});
