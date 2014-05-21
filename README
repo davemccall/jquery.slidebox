@@ -1,0 +1,7 @@
+slidebox
+
+Build an element with two children and this plugin will slide the second element over the first on mouse over.
+
+Documentation and licence in js header.
+
+sample.htm will show usage.
