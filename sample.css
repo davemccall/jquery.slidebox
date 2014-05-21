@@ -1,0 +1,16 @@
+body {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 17px;
+	line-height: 1.6em;
+}
+.container {
+	width: 900px;
+	margin: auto;
+}
+.slidebox {
+	display: inline-block;
+	margin: 20px;
+}
+.slidebox .fg {
+	background-color: #ccc;
+}
